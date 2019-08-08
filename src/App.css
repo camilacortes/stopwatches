@@ -20,7 +20,7 @@
   }
 
   body .border {
-    height: 180px;
+    height: 200px;
     width: 180px;
   }
 
@@ -70,7 +70,7 @@
 
 .border {
   border: solid rgb(70, 69, 69);
-  height: 300px;
+  height: 200px;
   margin: 20px;
   box-shadow: 1px 6px 15px 9px rgba(0, 0, 0, 0.38);
   -webkit-box-shadow: 1px 6px 15px 9px rgba(0, 0, 0, 0.38);
