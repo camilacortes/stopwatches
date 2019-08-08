@@ -1,3 +1,46 @@
+@media only screen and (min-width: 450px) and (max-width: 699px) {
+  body .text {
+    font-size: 60px;
+  }
+}
+
+@media only screen and (min-width: 300px) and (max-width: 449px) {
+  body .text {
+    font-size: 50px;
+  }
+}
+
+@media only screen and (min-width: 200px) and (max-width: 448px) {
+  body .header {
+    height: 150px;
+  }
+
+  body .text {
+    font-size: 40px;
+  }
+
+  body .border {
+    height: 180px;
+    width: 180px;
+  }
+
+  body .digits {
+    font-size: 30px;
+  }
+
+  body .start-btn {
+    font-size: 20px;
+  }
+
+  body .pause-btn {
+    font-size: 20px;
+  }
+
+  body .reset-btn {
+    font-size: 20px;
+  }
+}
+
 .App-header {
   background-color: white;
   /* min-height: 100vh; */
